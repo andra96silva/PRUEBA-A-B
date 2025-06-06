@@ -1,3 +1,5 @@
 # PRUEBA-A-B
 Prueba Estadística;</br>
-En este proyecto, evaluamos la efectividad de un sistema de recomendación en un sitio web a través de una prueba A/B. El objetivo principal es determinar si el sistema de recomendación es capaz de mejorar la experiencia del usuario y aumentar la conversión en el sitio web.
+Este proyecto busca aportar evidencia cuantitativa sobre el valor real de los sistemas de recomendación en línea, apoyando la toma de decisiones estratégicas en diseño de experiencia de usuario (UX) y optimización web.
+
+El propósito principal de este proyecto es evaluar la efectividad de un sistema de recomendación implementado en un sitio web, mediante una prueba A/B controlada. La intención es medir si dicha funcionalidad contribuye de manera significativa a mejorar la experiencia del usuario y a aumentar la tasa de conversión dentro del sitio.
